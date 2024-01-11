@@ -1,0 +1,66 @@
+# PIP ProtocolError 'Connection aborted' on trying to connect to pypi.python.org
+
+Welcome to the Pip Issue Solutions Guide! This guide is designed to help you troubleshoot and resolve common issues encountered with the Python Package Installer (pip). Follow the steps below to address specific problems and improve your experience with pip.
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+
+2. [Common Pip Issues](#common-pip-issues)
+   - [Issue : Pip: connection broken by 'ProtocolError'](#issue)
+
+3. [Troubleshooting Steps](#troubleshooting-steps)
+   - [Step 1: Changes to the Firewall Settings](#step-1)
+   - [Step 2: Check for the SSLCertificate path](#step-2)
+
+4. [Example Demonstrations of the issue](#example-demonstrations)
+   - Demonstration : 
+     WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', FileNotFoundError(2, 'No such file or directory'))': /simple/seaborn/
+     ERROR: Could not find a version that satisfies the requirement seaborn (from versions: none)
+     WARNING: There was an error checking the latest version of pip.
+     (#demonstration)
+
+5. [Contributing](#contributing)
+6. [Feedback and Support](#feedback-and-support)
+7. [License](#license)
+
+## Introduction
+
+Pip is a powerful tool for managing Python packages, but like any tool, it may present challenges from time to time. This guide is here to help you navigate through common pip-related issues, offering step-by-step solutions and examples to ensure a smooth development environment.
+
+## Common Pip Issues
+
+### Issue : <Pip: connection broken by Protocol Error>
+
+The "pip connection broken by protocol" error typically occurs when there is an issue with the network connection during a pip operation. This error message suggests that the communication between pip and the server has been disrupted, and it might be caused by various factors. Here are some common reasons and potential solutions:
+
+...
+
+## Troubleshooting Steps
+
+### Step 1: Change the FireWall Settings
+
+- Check if your firewall is blocking the communication of you pip to the internet
+
+### Step 2: Check for the SSLCertificate
+
+- Check if the path for the SSLCertificate verification is specified correctly
+
+...
+
+
+## Contributing
+
+If you have additional solutions or improvements, please consider contributing to this guide. Follow the [contributing guidelines](link-to-contributing) for more information.
+
+## Feedback and Support
+
+We value your feedback! If you encounter issues, have suggestions, or need further assistance, please open an [issue](link-to-issues).
+
+## License
+
+This guide is open-source and available under the [MIT License](link-to-license).
+
+```
+
+Customize the placeholders like "link-to-contributing," "link-to-issues," and "link-to-license" with the actual URLs once your repository is set up. Adjust the content based on your specific issues and troubleshooting steps. The goal is to provide a comprehensive and user-friendly resource for users facing pip-related problems.
