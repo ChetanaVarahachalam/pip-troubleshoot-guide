@@ -12,7 +12,11 @@ You get to face this issue when you try to install any packages through pip or y
 
 ### Step 2: Analyze the Error Message
 
-.
+ WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', FileNotFoundError(2, 'No such file or directory'))': /simple/seaborn/
+ ERROR: Could not find a version that satisfies the requirement seaborn (from versions: none)
+ WARNING: There was an error checking the latest version of pip.
+
+This is how the error would be displayed while using the pip
 
 ### Step 3: Solution Implementation
 
