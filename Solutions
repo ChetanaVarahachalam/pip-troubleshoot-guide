@@ -11,6 +11,7 @@ The "pip connection broken by protocol" error typically occurs when there is an 
 You get to face this issue when you try to install any packages through pip or you try upgrading pip. And this issue is caused as the Firewall might be blocking the communication between the pip and the server
 
 ### Step 2: Analyze the Error Message
+ https://github.com/ChetanaVarahachalam/pip-troubleshoot-guide/issues/1#issue-2075715556
 
  WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', FileNotFoundError(2, 'No such file or directory'))': /simple/seaborn/
  ERROR: Could not find a version that satisfies the requirement seaborn (from versions: none)
@@ -20,7 +21,8 @@ This is how the error would be displayed while using the pip
 
 ### Step 3: Solution Implementation
 
-Provide detailed steps on how to resolve the issue. Include specific commands or configurations.
+-- Open Windows Defender Firewall:
+    
 
 #### Code Example:
 
