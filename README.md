@@ -13,9 +13,7 @@ This repository aims to provide solutions for common issues and errors encounter
 
 
 ## Contributing
-
-- 🌟 **Contribute:** If you have solutions to share or improvements to suggest, feel free to [contribute](link-to-contributing).
-- 🤔 **Feedback:** Share your feedback, report issues, or propose new ideas by opening an [issue](link-to-issues).
+- 🤔 **Feedback:** Share your feedback, report issues, or propose new ideas by opening an [issue](https://github.com/ChetanaVarahachalam/pip-troubleshoot-guide/issues).
 
 ## License
 
