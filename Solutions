@@ -21,7 +21,12 @@ This is how the error would be displayed while using the pip
 
 ### Step 3: Solution Implementation
 
--- Open Windows Defender Firewall:
+-- **Open Windows Defender Firewall**:
+   https://github.com/ChetanaVarahachalam/pip-troubleshoot-guide/issues/2#issue-2075728335
+
+-- **Move to the Allow an app or feature through Windows Defender Firewall**:
+   
+   --Check if your firewall is blocking the communication of the pip and python with the server
     
 
 #### Code Example:
