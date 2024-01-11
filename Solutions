@@ -28,7 +28,7 @@ This is how the error would be displayed while using the pip
    
    --Check if your firewall is blocking the communication of the pip and python with the server
    --If yes then change the settings and give access to your python and pip checking their respective checkboxes
-   
+   https://github.com/ChetanaVarahachalam/pip-troubleshoot-guide/issues/3#issue-2075774666
 
    --If you are unable to find the python and pip files on your defender
      -Locate your python.exe and pip.exe file on your system
