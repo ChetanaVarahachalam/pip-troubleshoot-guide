@@ -25,7 +25,8 @@ This is how the error would be displayed while using the pip
    https://github.com/ChetanaVarahachalam/pip-troubleshoot-guide/issues/2#issue-2075728335
 
 -- **Move to the Allow an app or feature through Windows Defender Firewall**:
-   
+   https://github.com/ChetanaVarahachalam/pip-troubleshoot-guide/issues/2#issue-2075728335
+
    --Check if your firewall is blocking the communication of the pip and python with the server
    --If yes then change the settings and give access to your python and pip checking their respective checkboxes
    https://github.com/ChetanaVarahachalam/pip-troubleshoot-guide/issues/3#issue-2075774666
@@ -33,10 +34,14 @@ This is how the error would be displayed while using the pip
    --If you are unable to find the python and pip files on your defender
      -Locate your python.exe and pip.exe file on your system
      -Copy their paths and add to the defender and allow access to them to communicate over the internet
-   
+     https://github.com/ChetanaVarahachalam/pip-troubleshoot-guide/issues/4#issue-2075782688
+     -Similarly add the pip.exe file
+     
     
 
 #### Step 4: Check whether the SSLCertificate(cacert.pem) path is specified correctly
 
 ```Command Prompt
    pip confing list
+   
+ 
